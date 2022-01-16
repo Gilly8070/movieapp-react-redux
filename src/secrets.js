@@ -1,0 +1,1 @@
+export const API_KEY = '721477e364887d3b088a7e2a7d870545';
